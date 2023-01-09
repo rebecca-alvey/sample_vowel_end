@@ -2,7 +2,7 @@
 
 sample_vowel_end is a command-line program to test if a word ends in a vowel (a, e, i, o, u). This test is case insensitive.
 
-##Usage
+## Usage
 ```
 #where word_to_test is the desired word to test for ending in vowel
 sample_vowel_end.py word_to_test 
